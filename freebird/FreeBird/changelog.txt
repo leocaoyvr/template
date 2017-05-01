@@ -1,0 +1,76 @@
+====================
+FreeBird changelog:
+====================
+
+Note: You can use "WinMerge" to compare the differences between the old and new template versions: http://winmerge.org/ 
+
+
+-------------
+v1.4
+-------------
+
+- Fixed: gutter issue on "gallery-list-horizontal-scroll.html" page
+
+
+Changed files: 
+
+- theme.css
+
+
+-------------
+v1.3
+-------------
+
+- Added: video compatibility in single gallery
+
+
+-------------
+v1.2
+-------------
+
+- Added: 4 new single gallery layouts
+
+  gallery-single-sidebar-left-grid.html
+  gallery-single-sidebar-right-grid.html
+  gallery-single-sidebar-left-slider.html
+  gallery-single-sidebar-right-slider.html
+
+- Removed: single gallery sticky sidebar page (gallery-single-sticky-sidebar.html)
+- Made some general improvements.
+  
+
+Changed files: 
+
+- All .html files
+- theme.css
+- theme.js
+
+
+-------------
+v1.1
+-------------
+
+- Updated: lightGallery to latest version
+- Changed: gallery info title on single gallery slider page.
+- Fixed: buttons css code.
+- Fixed: item style issue on albums list no filter page.
+- Fixed: single gallery image caption issue.
+- Fixed: filter issue on small screens (close filter if click on filter links).
+  
+
+Changed files: 
+
+- gallery-single-slider.html
+- gallery-single-slider-center.html
+- gallery-list-grid-no-filter.html
+- gallery-list-masonry-no-filter.html
+- gallery-single-no-crop.html
+- dark-style.css
+- theme.css
+
+
+-------------
+v1.0
+-------------
+
+Initial Release.
